@@ -24,6 +24,11 @@ body {
     padding: 22px;
 }
 
+.current .p{
+    font-size: 16px;
+    color: rgb(42, 19, 43);
+}
+
  img{
     width: 200px;
     height: auto;
