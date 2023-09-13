@@ -18,15 +18,24 @@ body {
 
  }
 
- 
+ .current-container-p{
+    background-color: #fff;
+    border-radius: 7px;
+    border: 1px solid #809bf3;
+    padding: 22px;
+    display: flex;
+
+
+ }
  .container-img{
     width: 40px;
     height: 20px;
+    display: flex;
  }
-.AboutMe {
+.container-AboutMe {
     max-width: 60vh;
     height: auto;
-    border-radius: 50%;
+    border-radius: 5px;
     margin-bottom: 11px;
 }
 a{
