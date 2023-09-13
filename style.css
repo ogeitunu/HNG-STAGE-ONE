@@ -17,11 +17,16 @@ body {
     font-size: 30px;
 }
 
- .current-p{
+ .current{
     background-color: #fff;
     border-radius: 7px;
     border: 1px solid #809bf3;
     padding: 22px;
+}
+
+p{
+    font-size: 16px;
+    color: rgb(42, 19, 43);
 }
 img{
     width: 200px;
