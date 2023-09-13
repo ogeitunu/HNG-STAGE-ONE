@@ -18,7 +18,7 @@ body {
 
  }
 
- .container-p{
+ p{
     background-color: #fff;
     border-radius: 7px;
     border: 1px solid #809bf3;
@@ -27,17 +27,7 @@ body {
 
 
  }
- .container-img{
-    width: 40px;
-    height: 20px;
-    display: flex;
- }
-.container-AboutMe {
-    max-width: 60vh;
-    height: auto;
-    border-radius: 5px;
-    margin-bottom: 11px;
-}
+ 
 a{
     color: rgba(235, 105, 150);
 }
