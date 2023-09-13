@@ -27,6 +27,10 @@ body {
 
 
  }
+ img{
+    width: 200px;
+    height: auto;
+ }
  
 a{
     color: rgba(235, 105, 150);
