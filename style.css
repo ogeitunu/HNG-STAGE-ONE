@@ -15,18 +15,15 @@ body {
  h1{
     color: aqua;
     font-size: 30px;
+}
 
- }
-
- p{
+ .current-p{
     background-color: #fff;
     border-radius: 7px;
     border: 1px solid #809bf3;
     padding: 22px;
-    display: flex;
+}
 
-
- }
  img{
     width: 200px;
     height: auto;
