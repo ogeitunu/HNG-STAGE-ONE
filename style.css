@@ -4,7 +4,7 @@ body {
     text-align: center;
 }
 
-.about-container{
+.container{
     background-color: #fff;
     border-radius: 7px;
     border: 1px solid #809bf3;
@@ -17,8 +17,13 @@ body {
     font-size: 30px;
 
  }
-.AboutMe-img {
-    max-width: 40vh;
+
+ .containe-img{
+    width: 40%;
+    height: 20%;
+ }
+.AboutMe {
+    max-width: 60vh;
     height: auto;
     border-radius: 50%;
     margin-bottom: 11px;
